@@ -23,15 +23,15 @@ I'm a driven IT student that has a strong passion for software development. I ha
 
 ### Encryption project
 A sophisticated encryption program designed to secure various file types, including text files, images, zip archives, and PowerPoint presentations. This program utilizes established encryption standards such as AES, in addition to a proprietary encryption algorithm, to ensure robust data protection.
-- **Repository:** [View on GitHub](https://github.com/yourusername/awesome-project)
+- **Repository:** [View on GitHub](https://github.com/JL-Coetzee/Encryption-project)
 
 ### Inventory management system
 A comprehensive inventory management system that provides real-time stock updates. It also features an integrated cart system and a streamlined checkout process for clients, ensuring efficient and accurate inventory control and customer transactions.
-- **Repository:** [View on GitHub](https://github.com/yourusername/another-great-project)
+- **Repository:** [View on GitHub](https://github.com/JL-Coetzee/Inventory-management-system)
 
 ### Messaging app and network design
 This project involved the development of a messaging application capable of real-time message transmission and reception. Additionally, it encompassed the creation of a detailed network design, meticulously crafted to meet specific requirements.
-- **Repository:** [View on GitHub](https://github.com/yourusername/yet-another-project)
+- **Repository:** [View on GitHub](https://github.com/JL-Coetzee/Network-design-and-chat-app)
 
 ### My CV:
 
