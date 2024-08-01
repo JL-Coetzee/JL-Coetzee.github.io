@@ -35,6 +35,6 @@ This project involved the development of a messaging application capable of real
 
 ### My CV:
 
-<a href="assests/img/FinalCV.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View CV</a>
+<a href="assests/img/FinalCV2.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View CV</a>
 
 
