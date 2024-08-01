@@ -1,10 +1,11 @@
-# Full Stack Developer
+# Full Stack Software Developer
 
 ### Education
 National Senior Certificate: Potchefstroom Gimnasium
 
-### Academic Achievements
-Awarded the “academic merit award” 5 times during high school
+### Academic Achievements 
+Ranging from 2017-2024
+- Awarded the “academic merit award” 5 times during high school
 - Participated and qualified to the second round of the proverto business studies olimpiad
 - Participated and qualified for the second round of the proverto accounting olimpiad
 - Distinctions for majority of IT related modules in my course (Bsc IT)
@@ -18,4 +19,13 @@ Awarded the “academic merit award” 5 times during high school
 - Database management
 - Full stack software development
 - Github
+
+### Expierience
+- C# (3 years)
+- C++ (1 year)
+- Java (2 years)
+- Python (1 year)
+- CSS (1 year)
+- Delphi (3 years)
+
 
