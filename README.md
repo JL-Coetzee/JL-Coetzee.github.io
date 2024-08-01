@@ -23,7 +23,7 @@ I'm a driven IT student that has a strong passion for software development. I ha
 
 - ### Encryption project
 A sophisticated encryption program designed to secure various file types, including text files, images, zip archives, and PowerPoint presentations. This program utilizes established encryption standards such as AES, in addition to a proprietary encryption algorithm, to ensure robust data protection.
-- **Repository:** [View on GitHub](https://github.com/yourusername/awesome-project)
+-- **Repository:** [View on GitHub](https://github.com/yourusername/awesome-project)
 
 - ### Inventory management system
 A comprehensive inventory management system that provides real-time stock updates. It also features an integrated cart system and a streamlined checkout process for clients, ensuring efficient and accurate inventory control and customer transactions.
