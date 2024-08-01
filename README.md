@@ -22,4 +22,8 @@ gaan nog doen
 - CSS (1 year)
 - Delphi (3 years)
 
+### Button to Open PDF
+
+<a href="assests/img/CV.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View PDF</a>
+
 
