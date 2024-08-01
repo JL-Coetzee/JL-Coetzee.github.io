@@ -11,7 +11,7 @@ I'm a driven IT student that has a strong passion for software development. I ha
 - Full stack software development
 - Github
 
-### Expierience
+### Experience
 - C# (3 years)
 - C++ (1 year)
 - Java (2 years)
