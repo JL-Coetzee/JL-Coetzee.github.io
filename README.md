@@ -16,7 +16,7 @@ I'm a driven IT student that has a strong passion for software development. I ha
 - C++ (1 year)
 - Java (2 years)
 - Python (1 year)
-- CSS (1 year)
+- HTML (1 year)
 - Delphi (3 years)
 
 ## Projects
