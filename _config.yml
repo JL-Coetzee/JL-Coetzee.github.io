@@ -1,5 +1,10 @@
 title: Johan-Louis Coetzee
 logo: /assests/img/Profile_Photo.jpg
-description: Contact information
+description: |
+  Contact Information:
+  Email: johann@example.com
+  Phone: +123456789
+  LinkedIn: linkedin.com/in/johan-coetzee
+  GitHub: github.com/johancoetzee
 #show_downloads: true
 theme: jekyll-theme-minimal
