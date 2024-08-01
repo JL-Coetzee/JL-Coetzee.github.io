@@ -1,7 +1,7 @@
 # Full Stack Software Developer
 
-### Education
-National Senior Certificate: Potchefstroom Gimnasium
+### About me
+I'm a driven IT student that has a strong passion for software development. I have developed my programming, system analysis, and database design and management skills over my academic career. I like taking on challenging projects, and I'm constantly keen to pick up new skills and techniques. My objective is to put my knowledge and abilities to use in a creative and dynamic setting, helping to create ground-breaking solutions and improving user experiences.
 
 ### Academic Achievements 
 Ranging from 2017-2024
