@@ -7,7 +7,7 @@ I'm a driven IT student that has a strong passion for software development. I ha
 - Project management
 - System analysis
 - Database design
-- Database management
+- Database management & SQL
 - Full stack software development
 - Github
 
@@ -15,7 +15,8 @@ I'm a driven IT student that has a strong passion for software development. I ha
 - C# (3 years)
 - C++ (1 year)
 - Java (2 years)
-- Python (1 year)
+- JavaScript (2 years)
+- Python (2 years)
 - HTML (1 year)
 - Delphi (3 years)
 
